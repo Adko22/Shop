@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\account",
+    "\\src\\app\\account\\login",
+    "\\src\\app\\account\\register",
+    "\\src\\app\\basket",
+    "\\src\\app\\checkout",
+    "\\src\\app\\checkout\\checkout-address",
+    "\\src\\app\\checkout\\checkout-delivery"
+  ],
+  "SelectedNode": "\\src\\app\\basket",
+  "PreviewInSolutionExplorer": false
+}

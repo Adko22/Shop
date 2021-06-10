@@ -1,9 +1,9 @@
 D:\E-Commerce Shop\Skinet\Skinet\Core\bin\Debug\netcoreapp3.1\Core.deps.json
 D:\E-Commerce Shop\Skinet\Skinet\Core\bin\Debug\netcoreapp3.1\Core.dll
 D:\E-Commerce Shop\Skinet\Skinet\Core\bin\Debug\netcoreapp3.1\Core.pdb
-D:\E-Commerce Shop\Skinet\Skinet\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
 D:\E-Commerce Shop\Skinet\Skinet\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
 D:\E-Commerce Shop\Skinet\Skinet\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
 D:\E-Commerce Shop\Skinet\Skinet\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
 D:\E-Commerce Shop\Skinet\Skinet\Core\obj\Debug\netcoreapp3.1\Core.dll
 D:\E-Commerce Shop\Skinet\Skinet\Core\obj\Debug\netcoreapp3.1\Core.pdb
+D:\E-Commerce Shop\Skinet\Skinet\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache

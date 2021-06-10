@@ -1,5 +1,4 @@
 D:\E-Commerce Shop\Skinet\Skinet\Infrastructure\bin\Debug\netcoreapp3.1\Core.dll
-D:\E-Commerce Shop\Skinet\Skinet\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
 D:\E-Commerce Shop\Skinet\Skinet\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
 D:\E-Commerce Shop\Skinet\Skinet\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
 D:\E-Commerce Shop\Skinet\Skinet\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
@@ -13,3 +12,4 @@ D:\E-Commerce Shop\Skinet\Skinet\Infrastructure\obj\Debug\netcoreapp3.1\Infrastr
 D:\E-Commerce Shop\Skinet\Skinet\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
 D:\E-Commerce Shop\Skinet\Skinet\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
 D:\E-Commerce Shop\Skinet\Skinet\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
+D:\E-Commerce Shop\Skinet\Skinet\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
